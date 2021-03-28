@@ -1,3 +1,18 @@
+// Comments there a diffrent sort of comments we've got
+// */ // //,
+/* makes it bassicly the whole code when you want to end it just go like */
+Names of comments
+There 2 names for comments there is "/*" Multi - line
+// "//" normal comment*/
+
+/* logging
+Well Console.log Is just really understandable beacause its just like other Coding-launguages
+Roblox-lua print does the same thing as console.log
+Python print does the  same thing as the others.
+*/
+
+
+
 
 
 /* Data Types and variables:
@@ -25,6 +40,7 @@ Now we're gonna be talking about objects we all know what objects are  but in co
 Now a object can store alot of diffrent keywords values pairs and we'll talk about these later
 Variables
 Now you're often going to set data into variables a variable allows computer to store and manipulate data in a dynamic fashion it's bassicly a label to point to the data
-a variable is just like a box you can store stuff in it bassicly with anything you'll fill it with the data that you want so to declare a variable you want to use the var tag just like this,
-var
+a variable is just like a box you can store stuff in it bassicly with anything you'll fill it with the data that you want so to declare a variable you want to use the var keyword var stands for variable
+Now heres an example code
+https://github.com/Jxq7/How-to-code-in-javascript/blob/main/variables-example.js
 */
