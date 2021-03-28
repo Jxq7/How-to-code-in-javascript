@@ -6,4 +6,4 @@ Just a tutorial in text if you dont wanna watch a Yotube tutorial
 Once you are done with this a i recommend taking coures from
 https://freecodecamp.org and https://scrimba.com
 Also when coding and you need help i recommend it at https://repl.it and
-https://stackoverflow
+https://stackoverflow.com
