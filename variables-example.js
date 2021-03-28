@@ -7,3 +7,4 @@ let Console = console.log("Sheluv")
 
 // Tip: there shoud be some spaces between diffrent lines of code
 let ThisIsaDiffrentNameOfAVariable = console.log("123")
+const ConstIsAVariable = "111"
