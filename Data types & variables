@@ -40,7 +40,13 @@ Now we're gonna be talking about objects we all know what objects are  but in co
 Now a object can store alot of diffrent keywords values pairs and we'll talk about these later
 Variables
 Now you're often going to set data into variables a variable allows computer to store and manipulate data in a dynamic fashion it's bassicly a label to point to the data
-a variable is just like a box you can store stuff in it bassicly with anything you'll fill it with the data that you want so to declare a variable you want to use the var keyword var stands for variable
+a variable is just like a box you can store stuff in it bassicly with anything you'll fill it with the data that you want so to declare a variable you want to use the var keyword var stands for variable you can also use other stuff for a variable not only a string
 Now heres an example code
-https://github.com/Jxq7/How-to-code-in-javascript/blob/main/variables-example.js
+var myName = "Jxq" now later you can set it to be whatever like so,
+
+myName = "1234" 
+Now there are actaully 3 ways to declare a variable in javascript
+var is one of them and for a while that was the only way but
+now there is 3 there is a way called "let" now let's use let as an example
+
 */
