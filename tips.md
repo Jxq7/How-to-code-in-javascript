@@ -10,4 +10,8 @@ const SplitOutYourCode = "Lol"
 console.log("lol")
 
 LEAVE COMMENTS
+
+
+
+
 when leaving comments, its easier to understand what code does and it makes your code look better.
