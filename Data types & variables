@@ -1,0 +1,30 @@
+
+
+/* Data Types and variables:
+undefined, null, boolean, string, symbol, number, and object
+Explanation
+In Computer science data is anything meaningful to the computer and JavaScript Provides 7 diffrent data types that you can use listed above,
+Now Some of the more obvious answers and most common are strings  to my knwoledge in the 1 year of coding in lua in roblox strings are these (")
+but in javascript a string is any sort of text, now lets move on to a the number the number is obviously a number now lets go from the top,
+undefined that hasn't been defined here's an example
+
+var number = 5
+Error: Refrence error: (The thing you "defined or tried to"), The tab example "index.js"
+But if you don't know or haven't coded at all in roblox null means nothing you can set stuff to nothing like the example under,
+var nothing = null 
+now over booleans,
+booleans are very easy to understand there are only 2 answers to a boolean listed below,
+False
+True
+Now an example to what a boolean can be used for,
+EnabledGame = false
+EnabledGame = true
+A Symbol is a primitive value that is unique now we'll talk about those later,z
+Its bassicly just text but just like emojis and stuff,
+Now we're gonna be talking about objects we all know what objects are  but in coding they are completly diffrent,
+Now a object can store alot of diffrent keywords values pairs and we'll talk about these later
+Variables
+Now you're often going to set data into variables a variable allows computer to store and manipulate data in a dynamic fashion it's bassicly a label to point to the data
+a variable is just like a box you can store stuff in it bassicly with anything you'll fill it with the data that you want so to declare a variable you want to use the var tag just like this,
+var
+*/
