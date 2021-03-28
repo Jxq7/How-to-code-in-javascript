@@ -48,5 +48,15 @@ myName = "1234"
 Now there are actaully 3 ways to declare a variable in javascript
 var is one of them and for a while that was the only way but
 now there is 3 there is a way called "let" now let's use let as an example
+We can use it like this
+
+let ourName = console.log("Beau")
+Or
+let ourName = "612"
+and the other thing woud be "const"
+
+
+For a full code on the variables go here
+
 
 */
