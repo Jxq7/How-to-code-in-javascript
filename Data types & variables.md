@@ -55,8 +55,27 @@ Or
 let ourName = "612"
 and the other thing woud be "const"
 
+const ConstIsAVar = "111"
+Now let's talk about what those do
+Const is a variable that never changes,
+can never change like that variable i made called,
+var myName = "Jxq" but i changed it to 1234 by doing this,
 
-For a full code on the variables go here
+myName = "1234"
+Like i said earlier you can never change a "const" variable if you try to change it either way you'll get an error
+And this will be the error Type Error: Assignment to constant variable
+End of Data types and variables
+
+
+
+
+
+
+
+/*Storing Values with the Assignment Operator 
+
+https://github.com/Jxq7/How-to-code-in-javascript/blob/main/Storing%20Values%20with%20the%20Assignment%20Operator.md
+
 
 
 */
