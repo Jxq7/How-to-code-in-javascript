@@ -22,4 +22,4 @@ well it's not actaully required you can actaully just skip the semi-colon comple
 wether the end of the line is so at
 
 Never give up when coding
-#TIPS
+
